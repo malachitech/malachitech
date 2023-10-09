@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uKcX8U3tgHIG1NDtkvzNhorAWobLPAes/view?usp=drive_link](https://drive.google.com/file/d/1uKcX8U3tgHIG1NDtkvzNhorAWobLPAes/view?usp=drive_link)
 
-- ⚡ Fun fact **I am Funny, Athletics**
+- ⚡ Fun fact **I am Funny, Athletic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

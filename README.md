@@ -1,6 +1,6 @@
 [![MasterHead](https://imgs.search.brave.com/edM6Dsy5KHVhljcrvjFgj00mmXObfyOtFISWq5ZbaeI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LWh1bWFuLWhlYWQt/MXdyaXV4c3VlNHRp/Z2Viei5naWY.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Malachi Ezeabuchukwu</h1>
-<h3 align="center">Adept Software Developer with 3+ years of experience in building functional and modern full stack websites.</h3>
+<h3 align="center">Adept Software Developer building functional and modern full stack websites.</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 
 
